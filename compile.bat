@@ -1,0 +1,1 @@
+C:\Python33\Scripts\cxfreeze.bat D:\Documents\Programming\Python\Bounce\Program.py --target-dir=D:\Documents\Programming\Python\Bounce\bin
